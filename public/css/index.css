@@ -1,0 +1,9 @@
+/* blackBlock" : "whiteBlock */
+
+.blackBlock{
+    background-color: black;
+}
+
+.whiteBlock{
+    background-color: white;
+}
